@@ -1,0 +1,206 @@
+07/07/2022 01:22:53 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:22:54 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="f8e68a5d-b773-4efd-bc22-af0926c7523e")>
+07/07/2022 01:22:54 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:22:54 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="1fb497a4-7faa-4ae2-8f3e-4b69fc702398")>
+07/07/2022 01:22:58 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="1fb497a4-7faa-4ae2-8f3e-4b69fc702398")>
+07/07/2022 01:22:58 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:22:58 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="d5f0e74d-2a57-478c-8da7-0e733d7cf9e8")>
+07/07/2022 01:22:58 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:22:59 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="8b5990de-c6f6-4a92-810f-c715a30d96e4")>
+07/07/2022 01:23:00 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:23:00 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="48586f7b-fa06-44da-b62b-6c107b3ba2e7")>
+07/07/2022 01:23:00 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:23:00 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="fe2dde4d-65ba-4a6a-a7ae-f2e0856019f6")>
+07/07/2022 01:23:01 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="fe2dde4d-65ba-4a6a-a7ae-f2e0856019f6")>
+07/07/2022 01:23:02 PM - ExplicitWaitType - INFO: Element not found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:23:02 PM - ExplicitWaitType - INFO: Cannot get text on the element with locator: None
+07/07/2022 01:23:02 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:23:03 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="f3a7275c-1d21-4077-a8d8-2e82b2c6c210")>
+07/07/2022 01:23:03 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:23:03 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="6ec45932-af48-4ddd-a7c6-f2eab07bafaa")>
+07/07/2022 01:23:03 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:23:04 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="87ebf280-7e0a-4dcb-85f8-e69ae8eb25e2")>
+07/07/2022 01:23:04 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="87ebf280-7e0a-4dcb-85f8-e69ae8eb25e2")>
+07/07/2022 01:23:05 PM - ExplicitWaitType - INFO: Element not found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:23:05 PM - ExplicitWaitType - INFO: Cannot get text on the element with locator: None
+07/07/2022 01:23:05 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:23:06 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="0590bc1f-4f77-469a-86a5-f10783fd79c7")>
+07/07/2022 01:23:07 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:23:07 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="a14ebb00-a6bb-4d37-9a79-be121f1ed314")>
+07/07/2022 01:23:07 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:23:07 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="8ea635a0-fec0-46a9-99da-9fdb9c24c4fa")>
+07/07/2022 01:23:09 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="8ea635a0-fec0-46a9-99da-9fdb9c24c4fa")>
+07/07/2022 01:23:09 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:23:09 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="7c3fb726-f823-4935-9d65-c34fe7753ed1")>
+07/07/2022 01:23:09 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:23:10 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="93b73616-c486-467b-a28d-4e4e4f404585")>
+07/07/2022 01:23:10 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:23:11 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="18c76b0d-bf03-4bb0-9ca9-5a2e87ed5a50")>
+07/07/2022 01:23:11 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:23:11 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="fc5957be-089b-485e-94ab-c867e2d578e6")>
+07/07/2022 01:23:12 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="fc5957be-089b-485e-94ab-c867e2d578e6")>
+07/07/2022 01:23:12 PM - ExplicitWaitType - INFO: Element not found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:23:12 PM - ExplicitWaitType - INFO: Cannot get text on the element with locator: None
+07/07/2022 01:23:12 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:23:14 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="c55d0f1f-02ca-403c-8ac6-74a98b5b7249")>
+07/07/2022 01:23:14 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:23:14 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="914b4057-cbbc-4182-a79f-f3fee96d900d")>
+07/07/2022 01:23:14 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:23:14 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="b33f3a31-c494-487a-8eff-d60b45e1218e")>
+07/07/2022 01:23:16 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="b33f3a31-c494-487a-8eff-d60b45e1218e")>
+07/07/2022 01:23:16 PM - ExplicitWaitType - INFO: Element not found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:23:16 PM - ExplicitWaitType - INFO: Cannot get text on the element with locator: None
+07/07/2022 01:23:16 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:23:18 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="d5c90c23-967c-4f24-8127-ab276a12b272")>
+07/07/2022 01:23:18 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:23:18 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="0aa39995-bf4f-4f47-abf5-70fcd70a2670")>
+07/07/2022 01:23:18 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:23:18 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="1ba85bc4-f85d-4a98-803b-993ab914a0a9")>
+07/07/2022 01:23:19 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="1ba85bc4-f85d-4a98-803b-993ab914a0a9")>
+07/07/2022 01:23:20 PM - ExplicitWaitType - INFO: Element not found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:23:20 PM - ExplicitWaitType - INFO: Cannot get text on the element with locator: None
+07/07/2022 01:23:20 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:23:21 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="2636013c-89fc-444f-9795-c20029ac61ba")>
+07/07/2022 01:23:21 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:23:22 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="cd6ac05f-7850-4386-a7be-262dd24816a2")>
+07/07/2022 01:23:22 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:23:22 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="b27b022a-57c3-4ce4-b8c5-9d699939fd72")>
+07/07/2022 01:23:23 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="b27b022a-57c3-4ce4-b8c5-9d699939fd72")>
+07/07/2022 01:23:23 PM - ExplicitWaitType - INFO: Element not found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:23:23 PM - ExplicitWaitType - INFO: Cannot get text on the element with locator: None
+07/07/2022 01:23:23 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:23:24 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="19554c8a-5d87-4153-ad78-1ab009592e7a")>
+07/07/2022 01:23:24 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:23:25 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="a9f71880-b71f-4036-b3f2-ce90a58cbcdc")>
+07/07/2022 01:23:25 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:23:25 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="a0eb8ce1-f82e-4ca7-9ecf-9eaa901abfaa")>
+07/07/2022 01:23:26 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="a0eb8ce1-f82e-4ca7-9ecf-9eaa901abfaa")>
+07/07/2022 01:23:27 PM - ExplicitWaitType - INFO: Element not found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:23:27 PM - ExplicitWaitType - INFO: Cannot get text on the element with locator: None
+07/07/2022 01:23:27 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:23:28 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="e4e5bd2b-b6c0-4c4d-836a-e52bc0470990")>
+07/07/2022 01:23:28 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:23:28 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="add88eb1-e339-4eba-b4af-99608808f58e")>
+07/07/2022 01:23:28 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:23:28 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="9351e24c-db5d-4ddc-afbf-77f341e109d2")>
+07/07/2022 01:23:32 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="9351e24c-db5d-4ddc-afbf-77f341e109d2")>
+07/07/2022 01:23:32 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:23:32 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="a3e19930-b25c-4939-91ce-4e6c000cffea")>
+07/07/2022 01:23:32 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:23:34 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="501c1de2-2170-4a1c-bd78-b6f496439103")>
+07/07/2022 01:23:34 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:23:34 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="f2098cef-81b4-4dea-8711-d8c09c3bd45a")>
+07/07/2022 01:23:34 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:23:35 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="3dc520df-02bf-48b8-80d0-097328d2284b")>
+07/07/2022 01:23:37 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="3dc520df-02bf-48b8-80d0-097328d2284b")>
+07/07/2022 01:23:37 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:23:37 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="1d1f2ff5-23b2-4c9f-a892-ae619d337033")>
+07/07/2022 01:23:37 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:23:38 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="524c53a1-8c69-4c32-9333-62d149d6fdf2")>
+07/07/2022 01:23:38 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:23:38 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="73ab285a-103c-4bf0-bea4-fb9a69ffe089")>
+07/07/2022 01:23:38 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:23:39 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="640c40f5-98ff-4978-8bf4-9aa1d177052e")>
+07/07/2022 01:23:39 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="640c40f5-98ff-4978-8bf4-9aa1d177052e")>
+07/07/2022 01:23:40 PM - ExplicitWaitType - INFO: Element not found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:23:40 PM - ExplicitWaitType - INFO: Cannot get text on the element with locator: None
+07/07/2022 01:23:40 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:23:41 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="f24b234b-afe0-4a91-817a-fac6405f2cd8")>
+07/07/2022 01:23:41 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:23:41 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="1f84cc45-b763-4d3f-86f0-eaa8ed39d407")>
+07/07/2022 01:23:41 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:23:42 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="66d87d35-47b3-4cb7-8f4a-e1987da64afc")>
+07/07/2022 01:23:42 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="66d87d35-47b3-4cb7-8f4a-e1987da64afc")>
+07/07/2022 01:23:43 PM - ExplicitWaitType - INFO: Element not found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:23:43 PM - ExplicitWaitType - INFO: Cannot get text on the element with locator: None
+07/07/2022 01:23:43 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:23:44 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="f6976311-5bd2-428e-855c-92d19be6eac1")>
+07/07/2022 01:23:44 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:23:45 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="9e77c9b9-432c-4911-bc73-38b1e4eff49e")>
+07/07/2022 01:23:45 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:23:45 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="54e0030d-86fa-49f0-84b0-268c239c050a")>
+07/07/2022 01:23:46 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="54e0030d-86fa-49f0-84b0-268c239c050a")>
+07/07/2022 01:23:47 PM - ExplicitWaitType - INFO: Element not found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:23:47 PM - ExplicitWaitType - INFO: Cannot get text on the element with locator: None
+07/07/2022 01:23:47 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:23:48 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="adda99c0-9399-41e3-8b28-2c9a4347fb60")>
+07/07/2022 01:23:48 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:23:48 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="c73d2a37-4ac5-4ab2-a71f-5ec9436874e7")>
+07/07/2022 01:23:48 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:23:49 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="b609ebea-9bfd-4910-891b-03fb6d2c7eb5")>
+07/07/2022 01:23:50 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="b609ebea-9bfd-4910-891b-03fb6d2c7eb5")>
+07/07/2022 01:23:50 PM - ExplicitWaitType - INFO: Element not found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:23:50 PM - ExplicitWaitType - INFO: Cannot get text on the element with locator: None
+07/07/2022 01:23:50 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:23:51 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="a44e7b83-8a45-4b37-b5ff-7559617abcd6")>
+07/07/2022 01:23:52 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:23:52 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="ab68624f-df62-474c-8615-630dff5925fb")>
+07/07/2022 01:23:52 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:23:52 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="c483d471-35be-4e82-b52c-17eb54182b87")>
+07/07/2022 01:23:53 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="c483d471-35be-4e82-b52c-17eb54182b87")>
+07/07/2022 01:23:54 PM - ExplicitWaitType - INFO: Element not found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:23:54 PM - ExplicitWaitType - INFO: Cannot get text on the element with locator: None
+07/07/2022 01:23:54 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:23:55 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="294d8b56-4c39-4f18-ac7d-e444534bd172")>
+07/07/2022 01:23:55 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:23:55 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="fa6fca8f-4d9f-447b-9f27-8d8be729da43")>
+07/07/2022 01:23:55 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:23:55 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="c6d6c24e-3456-4f34-bd26-40fa919e7343")>
+07/07/2022 01:23:57 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="c6d6c24e-3456-4f34-bd26-40fa919e7343")>
+07/07/2022 01:23:58 PM - ExplicitWaitType - INFO: Element not found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:23:58 PM - ExplicitWaitType - INFO: Cannot get text on the element with locator: None
+07/07/2022 01:23:58 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:23:59 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="1ee4cc20-4853-47f2-8cec-2da2c59c59e9")>
+07/07/2022 01:23:59 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:23:59 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="86919aba-1bb3-4597-aa05-723174dcf972")>
+07/07/2022 01:23:59 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:23:59 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="dae4dc31-645c-42d8-b687-9951de05cc41")>
+07/07/2022 01:24:00 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="dae4dc31-645c-42d8-b687-9951de05cc41")>
+07/07/2022 01:24:01 PM - ExplicitWaitType - INFO: Element not found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:24:01 PM - ExplicitWaitType - INFO: Cannot get text on the element with locator: None
+07/07/2022 01:24:01 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:24:03 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="71c2af36-0d52-4065-a391-29f4560736f8")>
+07/07/2022 01:24:03 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:24:03 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="9d967719-6501-4d71-9d77-1e7135826d9b")>
+07/07/2022 01:24:03 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:24:03 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="362a5ed6-1f8e-462a-8650-4821a5311701")>
+07/07/2022 01:24:33 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="362a5ed6-1f8e-462a-8650-4821a5311701")>
+07/07/2022 01:24:33 PM - ExplicitWaitType - INFO: Element not found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:24:33 PM - ExplicitWaitType - INFO: Cannot get text on the element with locator: None
+07/07/2022 01:24:34 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:24:35 PM - ExplicitWaitType - INFO: Cannot click on the element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="d9d0d754-2071-46c1-bcbc-41f39d1e908c")>
+07/07/2022 01:24:35 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:24:35 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="12b07452-f7c4-4e07-94fb-101df8e835b9")>
+07/07/2022 01:24:35 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:24:35 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="d35c5c4d-9bc7-49c9-b685-55dc254eddf3")>
+07/07/2022 01:24:39 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="d35c5c4d-9bc7-49c9-b685-55dc254eddf3")>
+07/07/2022 01:24:39 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:24:39 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="ea74525f-0771-4427-a426-8d6cc8f468fc")>
+07/07/2022 01:24:39 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:24:41 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="bb081666-9a8f-4138-bfdf-933bf16255c6")>
+07/07/2022 01:24:41 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:24:41 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="2635e230-492a-43fa-b7b2-7b04b8c609e8")>
+07/07/2022 01:24:41 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:24:41 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="29500286-d882-4260-a85f-7e085248e3ad")>
+07/07/2022 01:24:42 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="29500286-d882-4260-a85f-7e085248e3ad")>
+07/07/2022 01:24:43 PM - ExplicitWaitType - INFO: Element not found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:24:43 PM - ExplicitWaitType - INFO: Cannot get text on the element with locator: None
+07/07/2022 01:24:43 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:24:45 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="86b7c9e8-4e26-42a6-a719-6f445031a0cb")>
+07/07/2022 01:24:45 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:24:45 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="0ec63759-a405-4955-b375-c3a765832b33")>
+07/07/2022 01:24:45 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:24:46 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="3ca831c7-4f50-48cc-b1b9-b4b977b332b1")>
+07/07/2022 01:24:49 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="3ca831c7-4f50-48cc-b1b9-b4b977b332b1")>
+07/07/2022 01:24:49 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:24:49 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="66cc973f-d527-4133-9a38-03185ede4f0f")>
+07/07/2022 01:24:49 PM - ExplicitWaitType - INFO: Element found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath
+07/07/2022 01:24:50 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="0d52d786-6e58-4c21-b629-a093fbcad7f6")>
+07/07/2022 01:24:50 PM - ExplicitWaitType - INFO: Element found with locator: #newsletter_block_popup > div > button > i and  locatorType: css
+07/07/2022 01:24:51 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="beaf0b73-d8e5-470a-b739-c0b37d19f248")>
+07/07/2022 01:24:51 PM - ExplicitWaitType - INFO: Element found with locator: search-input and  locatorType: id
+07/07/2022 01:24:51 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="5414f260-b754-479c-b12e-e74ddfd9ec70")>
+07/07/2022 01:25:01 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="be6fb3828aee086ae39e3f0c1108881e", element="5414f260-b754-479c-b12e-e74ddfd9ec70")>
+07/07/2022 01:25:06 PM - ExplicitWaitType - INFO: Element not found with locator: //*[@id="js-product-list-top"]/div[1]/p and  locatorType: xpath
+07/07/2022 01:25:06 PM - ExplicitWaitType - INFO: Cannot get text on the element with locator: None
+07/07/2022 01:25:07 PM - ExplicitWaitType - INFO: Element not found with locator: //*[@id="header"]/div[3]/div/div/div[1]/a and  locatorType: xpath

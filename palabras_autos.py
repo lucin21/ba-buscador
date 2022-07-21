@@ -1,0 +1,216 @@
+palabras_autos = """aceite
+acelerador
+airbag
+aire acondicionado
+alquiler
+alternador
+aparcamiento
+apoyabrazos
+asfalto
+asientos
+autobús
+automóvil
+autopista
+autovía
+baca
+bastidor
+batería
+berlina
+biela
+biodiésel
+bioetanol
+bólido
+bujía
+caballos de vapor
+cadena de montaje
+calefacción
+calesa
+calle
+camión
+capó
+carburador
+carretera
+carro
+carrocería
+cárter
+cenicero
+chasis
+chófer
+cierre
+cigüeñal
+cilindro
+cinturón de seguridad
+circuito
+claxon
+combustible
+combustión
+conductor
+confort
+consumo
+contacto
+contaminación
+correa del ventilador
+coupé
+cristal
+cuentakilómetros
+delco
+depósito
+derrapar
+descapotable
+diésel
+dirección
+eléctrico
+embellecedor
+embrague
+emisiones
+engranaje
+fábrica
+faros
+filtro del aire
+freno
+freno de mano
+furgoneta
+gálibo
+gasolina
+gato
+grúa
+guantera
+guardabarros
+híbrido
+industria
+intermitente
+jeep
+limpiaparabrisas
+limusina
+llanta
+llave
+luces antiniebla
+luces de cruce
+luces de posición
+luna
+maletero
+matrícula
+mecánico
+motor
+multa
+neumático
+palanca de cambio
+parabrisas
+parachoques
+parasoles
+parking
+pedal
+permiso de conducción
+piloto
+pinchazo
+pistón
+placa
+plaza
+portón
+puerta
+radiador
+radio
+rallye
+remolque
+reposacabezas
+retrovisor
+reventón
+roulotte
+ruedas
+salpicadero
+seguridad
+servofreno
+suspensión
+tablero
+tacómetro
+taller
+tapacubos
+tapicería
+tara
+tartana
+taxi
+testigo
+tráfico
+transmisión
+transporte
+tubo de escape
+turismo
+válvula
+velocidad
+ventanilla
+ventilador
+volante
+Acura
+Alfa Romeo
+ASTON MARTIN
+Audi
+BAIC
+Bentley
+BMW
+Cadillac
+Chevrolet
+Chrysler
+DODGE
+Ferrari
+Ford
+Honda
+Hyundai
+Infiniti
+Jaguar
+Jeep
+Mercedes Benz
+Nissan
+Renault
+Abarth	
+Alfa 
+Romeo	
+Aston Martin	
+Audi	
+Bentley
+BMW	Cadillac	
+Caterham	
+Chevrolet	
+Citroen
+Dacia	
+Ferrari	
+Fiat	
+Ford	
+Honda
+Infiniti	
+Isuzu	
+Iveco	
+Jaguar	
+Jeep
+Kia	
+KTM	
+Lada	
+Lamborghini	
+Lancia
+Land Rover	
+Lexus	
+Lotus	
+Maserati	
+Mazda
+Mercedes-Benz	
+Mini	
+Mitsubishi	
+Morgan	
+Nissan
+Opel	
+Peugeot	
+Piaggio	
+Porsche	
+Renault
+Rolls-Royce	
+Seat	
+Skoda	
+Smart	
+SsangYong
+Subaru	
+Suzuki	
+Tata	
+Tesla	
+Toyota
+Volkswagen	
+Volvo	 	 	
+"""
